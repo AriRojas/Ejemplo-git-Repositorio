@@ -9,3 +9,7 @@ git commit -m "tu primer commit"
 
 git push origin master
 git pull origin master
+
+PARA CREAR OTRA BRANCH:
+git branch <Nombre>
+git checkout <Nombre de la branch a cambiarme>
