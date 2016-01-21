@@ -1,0 +1,11 @@
+Arrancar el proyecto desde la carpeta que se designara como el repositorio:
+
+git init
+
+git add <Nombre del archivo>
+
+Hacer el primer commit:
+git commit -m "tu primer commit"
+
+git push origin master
+git pull origin master
